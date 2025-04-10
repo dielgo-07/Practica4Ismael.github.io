@@ -56,7 +56,7 @@ Diego Ismael Davila Castro
 </head>
 <body>
     <header>
-        <h1>Bienvenido a Mi Sitio Web</h1>
+        <h1>PELICULAS DE ROMANCE</h1>
     </header>
     
     <nav>
